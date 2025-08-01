@@ -5,7 +5,8 @@ A modern and stylish e-commerce platform inspired by Formula 1 streetwear — bu
 ## 🚀 Live Demo
  
 
-🔗 [View Live Site on Vercel](https://f1-streetwear-framer-e-commerce-md-sahil-khans-projects-70856617.vercel.app)
+🔗 [View Live Site on Vercel](https://f1-streetwear-framer-e-commerce.vercel.app/)
+
 
 
  
